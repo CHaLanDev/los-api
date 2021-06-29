@@ -1,0 +1,5 @@
+D:\Workspaces\TheLivingOS-Test\los-api\los-api\obj\Debug\netcoreapp3.1\los-api.csprojAssemblyReference.cache
+D:\Workspaces\TheLivingOS-Test\los-api\los-api\obj\Debug\netcoreapp3.1\los-api.AssemblyInfoInputs.cache
+D:\Workspaces\TheLivingOS-Test\los-api\los-api\obj\Debug\netcoreapp3.1\los-api.AssemblyInfo.cs
+D:\Workspaces\TheLivingOS-Test\los-api\los-api\obj\Debug\netcoreapp3.1\los-api.csproj.CoreCompileInputs.cache
+D:\Workspaces\TheLivingOS-Test\los-api\los-api\obj\Debug\netcoreapp3.1\los-api.MvcApplicationPartsAssemblyInfo.cache
